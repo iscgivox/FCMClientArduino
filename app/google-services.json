@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "698935796816",
+    "firebase_url": "https://myfcmtest-ec5aa.firebaseio.com",
+    "project_id": "myfcmtest-ec5aa",
+    "storage_bucket": "myfcmtest-ec5aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698935796816:android:4aa5fe7fc5bba53e",
+        "android_client_info": {
+          "package_name": "net.ivanvega.fcmclientarduino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698935796816-hvdlfd9gih9jg1eebgprka3ekk7jr9tj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.ivanvega.fcmclientarduino",
+            "certificate_hash": "ED9916F802470D2BB07D6AB9B8426260D5A9BB52"
+          }
+        },
+        {
+          "client_id": "698935796816-238136kvu5ai19lq33eomov4vqlcnr70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcP9OM8xYcCGkj7q2Bjlh1b_wfqJE-6gI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698935796816-238136kvu5ai19lq33eomov4vqlcnr70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
