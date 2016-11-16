@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "698935796816",
-    "firebase_url": "https://myfcmtest-ec5aa.firebaseio.com",
-    "project_id": "myfcmtest-ec5aa",
-    "storage_bucket": "myfcmtest-ec5aa.appspot.com"
+    "project_number": "409129177486",
+    "firebase_url": "https://myfcmtest2-a77de.firebaseio.com",
+    "project_id": "myfcmtest2-a77de",
+    "storage_bucket": "myfcmtest2-a77de.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:698935796816:android:4aa5fe7fc5bba53e",
+        "mobilesdk_app_id": "1:409129177486:android:4aa5fe7fc5bba53e",
         "android_client_info": {
           "package_name": "net.ivanvega.fcmclientarduino"
         }
       },
       "oauth_client": [
         {
-          "client_id": "698935796816-hvdlfd9gih9jg1eebgprka3ekk7jr9tj.apps.googleusercontent.com",
+          "client_id": "409129177486-kq0uob6o27f6nciaa1ohqsu3i6kblifc.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "net.ivanvega.fcmclientarduino",
@@ -23,13 +23,13 @@
           }
         },
         {
-          "client_id": "698935796816-238136kvu5ai19lq33eomov4vqlcnr70.apps.googleusercontent.com",
+          "client_id": "409129177486-1790cclvqpdg7ej54h91t8fnicudgt7n.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDcP9OM8xYcCGkj7q2Bjlh1b_wfqJE-6gI"
+          "current_key": "AIzaSyBf9RyHjQ19I2BU2MwVCEbE-Dt9ygmMyzw"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "698935796816-238136kvu5ai19lq33eomov4vqlcnr70.apps.googleusercontent.com",
+              "client_id": "409129177486-1790cclvqpdg7ej54h91t8fnicudgt7n.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
