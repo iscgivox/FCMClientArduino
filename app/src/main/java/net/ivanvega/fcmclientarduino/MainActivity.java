@@ -12,7 +12,7 @@ import com.google.firebase.messaging.FirebaseMessaging;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = "";
+    private static final String TAG = "pinchetoken";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
